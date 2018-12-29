@@ -1,0 +1,10 @@
+{
+    "name": "customization",
+    "version": "0.0.1",
+    "pages": {
+        "index": {
+            "type": "static",
+            "entry": "entry.html"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "extends": "airbnb",
+    "rules": {
+        "no-console": ["off"],
+        "global-require": "off",
+        "import/no-extraneous-dependencies": "off",
+        "import/no-dynamic-require": "off",
+        "class-methods-use-this": "off",
+        "camelcase": "off",
+        "no-underscore-dangle": "off",
+        "arrow-body-style": "off",
+        "indent": "off",
+        "no-undef": "off",
+        "no-new": "off",
+        "no-param-reassign": "off",
+        "func-names": "off"
+    }
+}

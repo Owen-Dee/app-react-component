@@ -1,0 +1,10 @@
+.DS_Store
+.vscode
+.idea
+run
+logs
+unittest-report
+.nyc_output
+coverage
+**/node_modules
+npm-debug.log
